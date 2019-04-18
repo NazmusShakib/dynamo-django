@@ -1,0 +1,15 @@
+*.pyc
+*~
+__pycache__
+venv
+db.sqlite3
+/static
+.DS_Store
+
+
+### IDE ###
+.idea/
+
+### Django ###
+*.log
+local_settings.py
